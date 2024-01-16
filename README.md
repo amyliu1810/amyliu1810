@@ -3,12 +3,10 @@
 ## Hi there 👋 I'm Yan Ru Liu
 I come from Taichung, Taiwan. 
 
-![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&style=for-the-badge)
 
 🌱  I’m currently learning web technology  
 📫  How to reach me: yanru1018@gmail.com
-
-![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&label=PROFILE+VIEWS)
 
 </div>
 
@@ -36,9 +34,9 @@ Here are some ideas to get you started:
 
 
 <!--
-
+![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 ![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famyliu1810%2Fhit-counter)
 ![](https://komarev.com/ghpvc/?username=your-github-amyliu1810)
 ![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&style=for-the-badge-square)
-
+![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&label=PROFILE+VIEWS)
 -->
