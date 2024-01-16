@@ -19,6 +19,8 @@ I come from Taichung, Taiwan.
 
 ![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&style=for-the-badge-square)
 
+![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&label=PROFILE+VIEWS)
+
 </div>
 
 <!--
