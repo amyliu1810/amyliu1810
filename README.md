@@ -12,6 +12,13 @@ I come from Taichung, Taiwan.
 ![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famyliu1810%2Fhit-counter)
 
 
+![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famyliu1810%2Fhit-counter)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-amyliu1810)
+
+![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&style=for-the-badge-square)
+
 </div>
 
 <!--
