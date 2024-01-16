@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Yan Ru Liu
 
+![Name](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
+![Name](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+
+
+
 <!--
 **amyliu1810/amyliu1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
