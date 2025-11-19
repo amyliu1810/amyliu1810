@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋 I'm Ru
+## Hi there 👋 I'm Ru!
 I come from Taichung, Taiwan. 
 
 ![](https://komarev.com/ghpvc/?username=your-github-amyliu1810&style=for-the-badge)
